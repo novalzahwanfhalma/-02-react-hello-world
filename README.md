@@ -18,6 +18,26 @@ App Router adalah  mekanisme atau pustaka yang memungkinkan pengembang untuk men
 
 Import alias adalah cara untuk memberi nama alias atau julukan untuk modul yang diimpor dalam JavaScript atau TypeScript.
 
+remix :
+![remix](img/remix-runweb.png)
+
+gatsby :
+![gatsby](img/gatsby-runweb.png)
+
+Perbedaan :
+
+Remix :
+
+Remix  berfokus pada pada konsep "Universal React" yang berarti dapat menggunakan React untuk membuat aplikasi yang serupa. Remix juga menawarkan kemampuan mengelola state, navigasi, dan pembuatan aplikasi yang terintegrasi dengan baik.
+
+Gatsby :
+
+Gatsby menyediakan berbagai plugin dan dukungan yang luas untuk mengintegrasikan berbagai sumber data, seperti CMS (Content Management System), API, dan file Markdown, ke dalam situs web. Gatsby juga memungkinkan untuk membuat situs web statis yang dioptimalkan dengan baik, yang berarti kontennya di-generate pada saat build dan kemudian disajikan ke pengguna.
+
+Next.js :
+
+Next.js memiliki kemampuan server-side rendering (SSR) yang setiap permintaan halaman akan di proses oleh server dan kemudian dikirimkan ke klien dan static site generation (SSG) yang memungkinkan untuk menghasilkan situs web statis pada waktu build, sehingga meningkatkan kecepatan dan kinerja situs.
+
 langkah 3 : Buka dengan vscode
 ![langkah-3](img/buka-di-vscode.png)
 
