@@ -10,3 +10,4 @@ langkah 3 : Buka dengan vscode
 langkah 4 : Run
 ![langkah-4](img/run-npm.png)
 
+noval
